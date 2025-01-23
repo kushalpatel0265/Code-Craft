@@ -1,7 +1,7 @@
 # [Code Craft](https://code-craft-peach.vercel.app/)
 
 ## Introduction
-Code Craft is a SaaS-based code editor designed to provide an intuitive and seamless coding experience. Built with **Next.js 15**, **Convex**, **Clerk**, and **TypeScript**, it offers a robust platform for developers to write, manage, and collaborate on code efficiently.
+Code Craft is a SaaS code editor built with **Next.js 15**, **Convex**, **Clerk**, and **TypeScript**. It supports 10 programming languages, offers 5 VSCode themes, and includes features like smart output handling, code sharing, and a statistics dashboard. Flexible pricing with Free and Pro plans integrates **Lemon Squeezy**.
 
 ## Features
 - **Collaborative Editing**: Users can work on the same project in real-time.
