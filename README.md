@@ -1,6 +1,3 @@
-Here is a README file for your **Code Craft** project based on the provided format:
-
-```markdown
 # [Code Craft](https://code-craft-peach.vercel.app/)
 
 ## Introduction
